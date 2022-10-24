@@ -1,0 +1,6 @@
+KA-Verzeichnis 2022-10-07 :                             https://www.sozialministerium.at/Themen/Gesundheit/Gesundheitssystem/Krankenanstalten/Krankenanstalten-und-selbststaendige-Ambulatorien-in-Oesterreich/Krankenanstalten-in-Oesterreich.html
+liste der selbststaendigen ambulatorien in oesterreich: https://www.sozialministerium.at/Themen/Gesundheit/Gesundheitssystem/Krankenanstalten/Krankenanstalten-und-selbststaendige-Ambulatorien-in-Oesterreich/Selbststaendige-Ambulatorien-in-Oesterreich.html
+PLZ_BESTIMUNGSORT:                                      https://www.post.at/g/c/postlexikon
+Bevölkerungszahl:                                       https://www.statistik.at/statistiken/bevoelkerung-und-soziales/bevoelkerung/bevoelkerungsstand/bevoelkerung-zu-jahres-/-quartalsanfang
+Numbers of Hospitals and beds since 1985:               https://www.statistik.at/en/statistics/population-and-society/health/health-care-and-expenditure/health-care-facilities-and-staff
+hospital data europe:                                   https://gateway.euro.who.int/en/indicators/hfa_478-5060-acute-care-hospital-beds-per-100-000/visualizations/#id=19535&tab=graph
